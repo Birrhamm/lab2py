@@ -5,7 +5,7 @@
 ### - Menjalankan tulisan "Hello" dilayar
 ### - Menampilkan tulisan "Saya sedang belajar python" dilayar
 
-![Gambar1](screenshot/py.png)
+![Gambar1](gambar 1.png)
 
 ## LATIHAN 2
 
@@ -15,9 +15,9 @@
 ####   - Mencetak nilai variabel a dan b 
 ####   - Mencetak hasil penjumlahan a+b
 
-![Gambar1](screenshot/py1.png)
+![Gambar1](gambar 2.png)
 
-![Gambar1](screenshot/py2.png)
+![Gambar1](gambar 3.png)
 
 ## LATIHAN 3
 
@@ -25,9 +25,9 @@
 ####   - Membuat file baru dengan nama *latihan3.py* (pastikan lokasi file pada folder lab2py pada direktori anda)
 ####   - Menggunakan fungsi *input* untuk mengambil nilai variabel dari keyboard
 
-![Gambar1](screenshot/py3.png)
+![Gambar1]
 
-![Gambar1](screenshot/py4.png)
+![Gambar1](gambar 5.png)
 
 ## Langkah-Langkah Mengggunakan PyCharm
 
@@ -35,19 +35,19 @@
 #### - Setelah selesai instalisasi, buka *PyCharm*
 #### - Membuat laman kerja baru dengan menekan (+) atau Create New Project
 
-![Gambar1](screenshot/py5.png)
+![Gambar1]
 
 ## Virtual Environment
 
-![Gambar1](screenshot/py6.png)
+![Gambar1]
 
 ## Menambahkan File Baru
 
-![Gambar1](screenshot/py7.png)
+![Gambar1]
 
 ## Menjalankan Program
 
-![Gambar1](screenshot/py8.png)
+![Gambar1]
 
 
 
@@ -56,6 +56,3 @@
 
 
 
-
-
-###### NoNe~'. ######
