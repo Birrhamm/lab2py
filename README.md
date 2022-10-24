@@ -15,7 +15,7 @@
 ####   - Mencetak nilai variabel a dan b 
 ####   - Mencetak hasil penjumlahan a+b
 
-![Gambar1](gambar 2/py.png)
+![Gambar1](gambar 2.png)
 
 ![Gambar1](gambar 3.png)
 
@@ -25,8 +25,6 @@
 ####   - Membuat file baru dengan nama *latihan3.py* (pastikan lokasi file pada folder lab2py pada direktori anda)
 ####   - Menggunakan fungsi *input* untuk mengambil nilai variabel dari keyboard
 
-![Gambar1]
-
 ![Gambar1](gambar 5.png)
 
 ## Langkah-Langkah Mengggunakan PyCharm
@@ -35,19 +33,11 @@
 #### - Setelah selesai instalisasi, buka *PyCharm*
 #### - Membuat laman kerja baru dengan menekan (+) atau Create New Project
 
-![Gambar1]
-
 ## Virtual Environment
-
-![Gambar1]
 
 ## Menambahkan File Baru
 
-![Gambar1]
-
 ## Menjalankan Program
-
-![Gambar1]
 
 
 
