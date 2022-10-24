@@ -15,7 +15,7 @@
 ####   - Mencetak nilai variabel a dan b 
 ####   - Mencetak hasil penjumlahan a+b
 
-![Gambar1](gambar 2.png)
+![Gambar1](gambar 2/py.png)
 
 ![Gambar1](gambar 3.png)
 
